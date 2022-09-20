@@ -1,0 +1,237 @@
+{
+
+    "columns": [{
+            "id": 1,
+            "field": "month",
+            "headerName": "Meses"
+        },
+        {
+            "id": 2,
+            "field": "plan",
+            "headerName": "Plan"
+        },
+        {
+            "id": 3,
+            "field": "real",
+            "headerName": "Real"
+        }
+
+    ],
+    "rows": [{
+            "id": 1,
+            "month": "Enero",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 2,
+            "month": "Febrero",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 3,
+            "month": "Marzo",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 4,
+            "month": "Abril",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 5,
+            "month": "Mayo",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 6,
+            "month": "Junio",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 7,
+            "month": "Julio",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 8,
+            "month": "Agosto",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 9,
+            "month": "Septiembre",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 10,
+            "month": "Octubre",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 11,
+            "month": "Noviembre",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        },
+        {
+            "id": 12,
+            "month": "Diciembre",
+            "plan": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }],
+            "real": [{
+                "value": 1,
+                "label": "En edición"
+            }, {
+                "value": 2,
+                "label": "Cerrado"
+            }]
+        }
+    ]
+}

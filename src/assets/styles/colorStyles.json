@@ -1,0 +1,20 @@
+{
+    "gris": "#F3F3F4",
+    "gris_claro": "#E7E7E8",
+    "gris_oscuro": "#ACACAC",
+    "azul": "#0092DD",
+    "naranja": "#EA6D4F",
+    "naranja_claro": "#F2DEDA",
+    "beige": "#EA6D4F",
+    "amarillo": "#F8C146",
+    "amarillo_claro": "#F4ECDA",
+    "verde": "#70AD47",
+    "verde_claro": "#DFE9DA",
+    "celeste": "#68C7FF",
+    "azul_oscuro": "#005D8D",
+    "rojo": "#F73A3A",
+    "celeste_claro": "#CFE5F1",
+    "negro": "#333333",
+    "blanco": "#FFFFFF",
+    "rosa": "#FFA68B"
+}

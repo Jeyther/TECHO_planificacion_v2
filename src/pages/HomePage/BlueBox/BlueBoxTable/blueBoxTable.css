@@ -1,0 +1,39 @@
+.blueBox-table {
+    border: 2px solid #cfe5f1;
+    border-collapse: collapse;
+}
+
+.blueBox-thead {
+    color: #0092dd;
+}
+
+.blueBox-tbody {
+    border-radius: 10px;
+    border: 2px solid #0092dd;
+    font-size: 10px;
+}
+
+.blueBox-tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
+.blueBox-tbody tr:nth-child(even) {
+    background-color: #dfdfdf;
+}
+
+.blueBox-th {
+    padding: 10px;
+    border: 1px solid #cfe5f1;
+}
+
+.blueBox-td {
+
+    text-align: center;
+    border-right: 2px solid #0092dd;
+    padding: 3px;
+}
+
+.blueBox-title {
+    font-size: 18px;
+    margin: 0;
+}

@@ -1,0 +1,46 @@
+.pinkBox-table {
+    border-radius: 10px;
+    border: 2px solid #ea6d4f;
+    border-collapse: collapse;
+}
+
+.pinkBox-thead {
+    background-color: #ea6d4f;
+    color: white;
+    font-size: 12px;
+}
+
+.pinkBox-tbody {
+    font-size: 12px;
+}
+
+.pinkBox-tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
+
+.pinkBox-tbody tr:nth-child(even) {
+    background-color: #dfdfdf;
+}
+
+
+.pinkBox-th {
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.pinkBox-td {
+
+    text-align: center;
+    border-right: 1px solid #ea6d4f;
+    padding: 3px;
+}
+
+.links {
+    text-decoration: none;
+    color: white
+}
+
+.links:hover {
+    color: black
+}

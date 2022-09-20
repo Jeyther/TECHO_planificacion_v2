@@ -1,0 +1,45 @@
+.dataBox-table {
+    border-radius: 10px;
+    border: none;
+    border-collapse: collapse;
+}
+
+.dataBox-thead {
+    background-color: #000000;
+    color: white;
+    font-size: 10px;
+}
+
+.dataBox-tbody {
+    font-size: 12px;
+}
+
+.dataBox-tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
+.dataBox-tbody tr:nth-child(even) {
+    background-color: #dfdfdf;
+}
+
+.dataBox-th {
+    padding: 10px;
+
+    border: none;
+}
+
+.dataBox-td {
+
+    text-align: center;
+    border-right: none;
+    padding: 3px;
+}
+
+.links {
+    text-decoration: none;
+    color: white
+}
+
+.links:hover {
+    color: black
+}

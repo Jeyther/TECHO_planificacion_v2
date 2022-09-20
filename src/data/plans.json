@@ -1,0 +1,39 @@
+{
+
+    "columns": [{
+            "id": 1,
+            "field": "year",
+            "headerName": "Año",
+            "flex": 1
+        },
+        {
+            "id": 2,
+            "field": "status",
+            "type": "boolean",
+            "headerName": "Estado",
+            "flex": 1
+        }
+    ],
+    "rows": [{
+            "id": 1,
+            "year": 2019,
+            "status": true
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "status": true
+        },
+        {
+            "id": 3,
+            "year": 2021,
+            "status": true
+        },
+        {
+            "id": 4,
+            "year": 2022,
+            "status": true
+        }
+    ]
+
+}

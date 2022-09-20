@@ -1,0 +1,148 @@
+.textarea {
+    margin: 20px 10px 20px 10px;
+    width: 50%;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.select {
+    padding: 5px 20px 5px 5px;
+    margin-bottom: 15px;
+    border-color: #22729b;
+    border-radius: 5px;
+}
+
+.input-button {
+    margin: auto;
+    background-color: #0092dd;
+    color: #ffffff;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+}
+
+.blue {
+    border-color: #80c8ee;
+
+}
+
+.darkBlue {
+    color: #0092DD;
+
+}
+
+.lightBlue {
+    background-color: #CFE5F1;
+}
+
+.green {
+    border-color: #b7d6a3;
+}
+
+.darkGreen {
+    color: #70AD47;
+}
+
+.lightGreen {
+    background-color: #DFE9DA;
+}
+
+.yellow {
+    border-color: #fbe0a2;
+}
+
+.darkYellow {
+    color: #F8C146;
+}
+
+.lightYellow {
+    background-color: #F4ECDA;
+}
+
+.orange {
+    border-color: #f4b6a7;
+}
+
+.darkOrange {
+    color: #EA6D4F;
+}
+
+.lightOrange {
+    background-color: #F2DEDA;
+}
+
+.navlinks {
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    
+}
+
+.diagnostico-nav {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+
+.verFoda {
+
+    height: 100px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.blueFoda {
+    border: 4px solid #26a7ec;
+
+    background-color: #80c8ee;
+    opacity: 50%;
+
+
+}
+
+.greenFoda {
+    border: 4px solid #7ed643;
+    background-color: #b7d6a3;
+    opacity: 50%;
+}
+
+.yellowFoda {
+    border: 4px solid #fdc646;
+    background-color: #fbe0a2;
+    opacity: 50%;
+}
+
+.orangeFoda {
+    border: 4px solid #f06b4a;
+    background-color: #f4b6a7;
+    opacity: 50%;
+}
+
+.close {
+    height: 20px;
+    width: 20px;
+
+    display: inline-block;
+
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: .5em;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.tag-input {
+    flex-grow: 1;
+    padding: .5em 0;
+    border: none;
+    outline: none;
+
+}
